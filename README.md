@@ -1,5 +1,4 @@
 # hello-world
 
-Hello there,
-
-this is Kui, i'm a part-time MSc student at Oxford.
+cd "path to where I want to store the folder"
+git clone https://github.com/mbcarlos/simple_academic_website.git
