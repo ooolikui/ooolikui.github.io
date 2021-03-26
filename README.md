@@ -1,5 +1,3 @@
-name: Kui
-
 <title> Kui </title>
 
 <b>李       岿</b>
