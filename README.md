@@ -1,4 +1,20 @@
-# hello-world
+# Kui
 
-cd "path to where I want to store the folder"
-git clone https://github.com/mbcarlos/simple_academic_website.git
+<b>李       岿</b>
+税法硕士(牛津), 美国税务硕士(福特汉姆), 国际金融学士(天津财经)
+安永并购重组税务经理 (2016-2021 伦敦)
+普华永道税务顾问 (2015-2016 纽约)
+花旗集团税务助理 (2014-2015 纽约)
+
+<b>服务范围：</b>
+任何形式的英文写作/口语
+（一对一视频培训，托福/雅思/GMAT/GRE/LSAT/SAT，出国高中/本/硕/博申请文书）
+海外投资税务咨询（英/美/欧洲）
+欢迎机构合作
+
+<b>联系方式：</b>ooolikui@gmail.com
+请联系时提供以下四条信息，服务报价在了解情况之后提供。
+1.	姓名及简单背景介绍
+2.	所需服务的项目
+3.	希望服务达成的目标
+4.	达成目标的截止时间
